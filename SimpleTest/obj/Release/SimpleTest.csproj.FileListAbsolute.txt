@@ -1,0 +1,5 @@
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTest\bin\Release\SimpleTest.dll
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTest\bin\Release\SimpleTest.pdb
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTest\obj\Release\SimpleTest.csprojResolveAssemblyReference.cache
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTest\obj\Release\SimpleTest.dll
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTest\obj\Release\SimpleTest.pdb

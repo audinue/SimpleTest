@@ -1,0 +1,8 @@
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTestDemo\bin\Release\SimpleTestDemo.exe.config
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTestDemo\bin\Release\SimpleTestDemo.exe
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTestDemo\bin\Release\SimpleTestDemo.pdb
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTestDemo\bin\Release\SimpleTest.dll
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTestDemo\bin\Release\SimpleTest.pdb
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTestDemo\obj\Release\SimpleTestDemo.csprojResolveAssemblyReference.cache
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTestDemo\obj\Release\SimpleTestDemo.exe
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\SimpleTest\SimpleTestDemo\obj\Release\SimpleTestDemo.pdb
