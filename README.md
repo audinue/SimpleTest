@@ -1,7 +1,7 @@
 # SimpleTest
 
 1. Create a new console application.
-2. Add reference to SimpleTest.
+2. Add reference to [SimpleTest](https://github.com/audinue/SimpleTest/releases).
 3. Create your first test class.
 
 ```csharp
